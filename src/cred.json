@@ -1,0 +1,112 @@
+{
+  "u": [
+    {
+      "email": "jeff@gmail.com",
+      "password": "U2FsdGVkX18vh5hlMNUsS4030sNDxlLc8cePdJudwcU=",
+      "name": "Deepak kalal",
+      "budgetData": {
+        "budget": [
+          {
+            "title": "gamming",
+            "amount": "700"
+          },
+          {
+            "title": "rohit watch",
+            "amount": "2000"
+          },
+          {
+            "title": "badri",
+            "amount": "1000"
+          },
+          {
+            "title": "Food",
+            "amount": "210"
+          },
+          {
+            "title": "snacks",
+            "amount": "90"
+          }
+        ],
+        "moneyData": {
+          "budgetAmount": 11600,
+          "expenseAmount": 4000,
+          "pendingAmount": 7600
+        }
+      },
+      "id": 1
+    },
+    {
+      "email": "rohit@gmail.com",
+      "password": "U2FsdGVkX198VTz992AHOQWCyg8RtWOlWMv5nnax1ig=",
+      "name": "rohit Negi",
+      "budgetData": {
+        "budget": [
+          {
+            "title": "jordan",
+            "amount": "5000"
+          },
+          {
+            "title": "gym",
+            "amount": "1500"
+          }
+        ],
+        "moneyData": {
+          "budgetAmount": 10000,
+          "expenseAmount": 6500,
+          "pendingAmount": 2500
+        }
+      },
+      "id": 2
+    },
+    {
+      "email": "shivam@gmail.com",
+      "password": "U2FsdGVkX1/xX9Ktf8VUGDeLmJtyjBO/9u0VWojJrVo=",
+      "name": "Shivam Yadav",
+      "budgetData": {
+        "budget": [],
+        "moneyData": {
+          "budgetAmount": 0,
+          "expenseAmount": 0,
+          "pendingAmount": 0
+        }
+      },
+      "id": 3
+    },
+    {
+      "email": "priyanks@gmail.com",
+      "password": "U2FsdGVkX19UTRP97OSscct32Y15+JAA2pINMZK1rc4=",
+      "name": "priyanka Rana",
+      "budgetData": {
+        "budget": [],
+        "moneyData": {
+          "budgetAmount": 200000,
+          "expenseAmount": 0,
+          "pendingAmount": 200000
+        }
+      },
+      "id": 6
+    },
+    {
+      "email": "jeffmathew35789@gmail.com",
+      "name": "Jeff Mathew",
+      "budgetData": {
+        "budget": [
+          {
+            "title": "gym",
+            "amount": "1000"
+          },
+          {
+            "title": "rent",
+            "amount": "9000"
+          }
+        ],
+        "moneyData": {
+          "budgetAmount": 20000,
+          "expenseAmount": 10000,
+          "pendingAmount": 10000
+        }
+      },
+      "id": 7
+    }
+  ]
+}
